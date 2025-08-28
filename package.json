@@ -1,0 +1,23 @@
+{
+  "name": "book-tracker-app",
+  "version": "1.0.0",
+  "description": "A simple JavaScript Book Tracker app for managing books to read",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --open=./index.html",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "javascript",
+    "books",
+    "tracker",
+    "learning",
+    "assessment"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "live-server": "^1.2.2"
+  }
+}
